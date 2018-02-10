@@ -30,8 +30,8 @@ export default {
 			 },
 			 {
 				  htmlAttrs: {
-      foo: 'bar',
-      amp: undefined
+				foo: 'bar',
+				amp: undefined
 
 			 }
 			 }
