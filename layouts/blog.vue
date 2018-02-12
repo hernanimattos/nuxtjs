@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <div>My blog navigation bar here</div>
-    <nuxt/>
-  </div>
+<header>
+	<h1>teste</h1>
+
+</header>
 </template>

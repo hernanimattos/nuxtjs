@@ -7,6 +7,7 @@
 
 <script>
 export default {
+	// middleware: 'authenticated',
 	 layout (context) {
     return 'blog'
   },
@@ -20,7 +21,7 @@ export default {
       title: this.title,
       meta: [
         {
-			hid: 'description',
+			hid: 'description teste',
 			name: 'description',
 			content: 'My custom description',
 
